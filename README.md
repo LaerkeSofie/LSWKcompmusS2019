@@ -11,3 +11,5 @@ To identify Bowie's style I will first select tree albums from the discography b
 For my corpus, I have decided to select the album “'hours..’ (Expanded Version)” (1999) to serve as my album with the lowest popularity. The corpus now represents an overview of Bowie's popularity through time. Given that the albums have varying release years I give me the possibility of adding the time of release as a comparing factor. 
 
 My research question is about Bowie's style and popularity over time. Therefore it might be interesting to look at the difference in the Spotify features track popularity, to see if there are any outliers. I find that there were no outliers on the albums with lowest and median popularity, but on the album with the highest popularity I find a big difference in the average track popularity and one song with a popularity of 75. That song is “Starman” which might be interesting to include further research of in future weeks.   
+
+#here are some extra changes I made during the lab session
