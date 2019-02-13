@@ -12,4 +12,4 @@ For my corpus, I have decided to select the album “'hours..’ (Expanded Versi
 
 My research question is about Bowie's style and popularity over time. Therefore it might be interesting to look at the difference in the Spotify features track popularity, to see if there are any outliers. I find that there were no outliers on the albums with lowest and median popularity, but on the album with the highest popularity I find a big difference in the average track popularity and one song with a popularity of 75. That song is “Starman” which might be interesting to include further research of in future weeks.   
 
-#here are some extra changes I made during the lab session
+# Here are some extra changes I made during the lab session
