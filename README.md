@@ -13,6 +13,5 @@ My first research deals with the Spotify features danceability, acousticness, an
 The following plot show valence on the x-axis, danceability on the y-axis, and the colours show the different album release dates. This plot is not ideal since it is overloaded with information. My plan is therefore to find a way in which I can filter albums from each decade to make a more clear and well-arranged plot.   
 
 ![første graf](Rplot01.png)
-Format: ![Alt Text](url)
 
 My research question is about Bowie's development of musical style and popularity over time. Therefore it might be interesting to look at the difference in the Spotify features track popularity, to see if there are any outliers. I find a big difference in the average track popularity and one song with a popularity of 75. That song is “Starman” which might be interesting to include further research of in future weeks.  
