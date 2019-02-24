@@ -14,4 +14,6 @@ The following plot show valence on the x-axis, danceability on the y-axis, and t
 
 ![første graf](Rplot.png)
 
+I wanted to make a flexdashboard but could not seem to make it work. I will try to correct this in Wednesday's lab session. 
+
 My research question is about Bowie's development of musical style and popularity over time. Therefore it might be interesting to look at the difference in the Spotify features track popularity, to see if there are any outliers. I find a big difference in the average track popularity and one song with a popularity of 75. That song is “Starman” which might be interesting to include further research of in future weeks.  
